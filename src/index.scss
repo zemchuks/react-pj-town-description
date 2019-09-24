@@ -1,0 +1,22 @@
+@font-face {
+    src: url("/public/fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+    font-family: "Oswald";
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #d8d8d8;
+$mainGray: rgb(199, 199, 199);
+
+body {
+    background: $mainGrey;
+    color: #222;
+    font-family: 'Oswald', sans-serif;
+}
