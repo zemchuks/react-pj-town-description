@@ -32,6 +32,6 @@ export default class Tour extends Component {
         
         </div>
         </article>
-        ); 
+        );
     }
 }

@@ -1,6 +1,21 @@
 @font-face {
-    src: url("/public/fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+    src: url('./fonts/Oswald/Oswald-Regular.ttf') format("truetype");
     font-family: "Oswald";
+    font-style: oblique 20deg 50deg;
+}
+@font-face {
+    src: url("./fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+    font-family: "Roboto";
+}
+
+@font-face {
+    src: url("./fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+    font-family: "OpenSans";
+}
+
+@font-face {
+    src: url("./fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf") format("truetype");
+    font-family: "Condensed";
 }
 
 * {
@@ -18,5 +33,5 @@ $mainGray: rgb(199, 199, 199);
 body {
     background: $mainGrey;
     color: #222;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Condensed', sans-serif;
 }

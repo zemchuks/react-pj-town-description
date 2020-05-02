@@ -4,11 +4,6 @@ import logo from '../../logo.png'
 
 
 export default function Navbar() {
-   /** window.onload=function(){
-        const navicon = document.querySelector('.fa-navicon')
-    const  sidebar = document.getElementById('sidebar-mobile')
-    navicon.addEventListener('click', () => sidebar.classList.toggle('show'))
-      } */
     return <nav className="nav-wrapper purple">
     <div className="container">
     <img src={logo} alt="city tour logo" className="z-depth-0" />
