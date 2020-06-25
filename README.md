@@ -11,3 +11,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+Additional technology used for styling:
+
+- Materialize
+
+**Here is a [demo](https://zemchuks.github.io/react-pj-town-description/) of the project**
