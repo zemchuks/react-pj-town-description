@@ -16,4 +16,4 @@ Additional technology used for styling:
 
 - Materialize
 
-**Here is a [demo](https://zemchuks.github.io/react-pj-town-description/) of the project**
+**Here is a [Demo](https://react-town-desc.netlify.app) of the project**
